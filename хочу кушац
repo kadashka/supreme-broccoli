@@ -1,0 +1,3 @@
+words = input ('Введите предложение')
+print(words)
+print('Ответ:', len(words))
